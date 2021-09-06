@@ -8,5 +8,5 @@ Process:
 3. Use a KMeans model to cluster the cryptocurrencies
 4. Vizualize the results
 
-![3d plot]("Resources/3d_plot.png")
-![2d plot]("Resources/2d_plot.png")
+![3d plot](Resources/3d_plot.png)
+![2d plot](Resources/2d_plot.png)
